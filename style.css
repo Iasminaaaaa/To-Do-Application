@@ -154,3 +154,56 @@ ul li span:hover {
     transform:translateY(-50%) rotate(360deg);
 }
 
+@media (max-width: 768px) {
+    .todo-app {
+        padding: 30px 20px 50px;
+        max-width: 100%;
+        min-height: auto;
+        margin-top: -300px;
+    }
+
+    .todo-app h2 {
+        justify-content: center; 
+        text-align: center;
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+
+    .row {
+        flex-direction: column;
+        padding-left: 0px;
+        margin-bottom: 20px;
+    }
+
+    input {
+        text-align: center;
+        padding: 10px;
+        font-size: 14px;
+        margin-bottom: 10px;
+        width: 100%;
+    }
+
+    button {
+        width: 100%;
+        margin-top: 10px;
+        font-size: 14px;
+    }
+
+    ul li {
+        font-size: 16px;
+        padding: 12px 8px 12px 50px;
+    }
+
+    ul li::before {
+        height: 25px;
+        width: 25px;
+        left: 12px;
+    }
+
+    ul li span {
+        width: 25px;
+        height: 25px;
+        font-size: 18px;
+        right: 12px;
+    }
+}
