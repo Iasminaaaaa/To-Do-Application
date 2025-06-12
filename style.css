@@ -82,16 +82,16 @@ button {
 }
 
 button:hover {
-background: linear-gradient(135deg, #e6b9ea, #d1a8e0); /* Gradient mai luminos pentru hover */
+background: linear-gradient(135deg, #e6b9ea, #d1a8e0); 
 transform: scale(1.05);
-box-shadow: 0 8px 15px rgba(0, 0, 0, 0.3); /* Umbră mai pronunțată pentru hover */
-filter: brightness(1.1); /* Efect de iluminare la hover */
+box-shadow: 0 8px 15px rgba(0, 0, 0, 0.3); 
+filter: brightness(1.1); 
 }
 
 button:active {
-background: linear-gradient(135deg, #d1a8e0, #b57edc); /* Culoare de bază la click */
+background: linear-gradient(135deg, #d1a8e0, #b57edc); 
 transform: scale(1.02);
-box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Umbră de bază la click */
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
 ul li {
