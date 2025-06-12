@@ -1,8 +1,10 @@
 <h1 align="center">Welcome to To-Do-Application 👋</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version- -blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0 -blue.svg?cacheSeconds=2592000" />
   <a href=" " target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-blue" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-yellow" />
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-orange" />
   </a>
 </p>
 
