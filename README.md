@@ -8,7 +8,7 @@
   </a>
 </p>
 
-> To-Do App is a simple and elegant application for managing daily tasks. Built using HTML, CSS, and JavaScript, the app offers an intuitive and modern interface to help you organize your tasks efficiently and enjoyably. Users can add new tasks via the input field, mark tasks as completed, and delete tasks when they are no longer needed. 
+> To-Do App is a simple and elegant application for managing daily tasks. Built using HTML, CSS, and JavaScript, the app offers an intuitive and modern interface to help you organize your tasks efficiently and enjoyably. Users can add new tasks via the input field, mark tasks as completed, and delete tasks when they are no longer needed. All your tasks are saved locally in your browser using localStorage, so you won’t lose them even if you close or refresh the page.
 
 ### 🏠 [Homepage]( )
 
@@ -35,7 +35,9 @@ After launching the application in your browser, you can:
     📌 Mark tasks as completed by clicking on them.
 
     🗑️ Delete tasks by clicking the trash icon next to each task.
-
+  
+All your tasks are saved locally in your browser using localStorage.
+This means you can safely close or refresh the tab without losing your to-do list.
 ```
 
 ## Author
