@@ -12,6 +12,12 @@
 
 ### 🏠 [Homepage]( )
 
+<img width="1233" height="728" alt="Screenshot 2025-11-07 195615" src="https://github.com/user-attachments/assets/a3c358a9-bb56-4afa-95af-0d60fec0939c" />
+
+<img width="545" height="777" alt="Screenshot 2025-11-07 195546" src="https://github.com/user-attachments/assets/863b4ba4-3150-4ac0-9f35-7a25f1a1c9f3" />
+
+<img width="400" height="778" alt="Screenshot 2025-11-07 195515" src="https://github.com/user-attachments/assets/b200e5e6-7e32-4311-8741-4e2ce07ec2f2" />
+
 ## Install
 
 ```
